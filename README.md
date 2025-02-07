@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mdnurulnit/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mdnurulnit/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mdnurulnit/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
